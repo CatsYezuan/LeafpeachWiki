@@ -20,7 +20,7 @@ DCP采用LittleSkin皮肤站外置登录验证，因此，在进入服务器前�
 传送锚点：[LittleSkin](https://littleskin.cn/ "传送锚点——LittleSkin")<br>
 
 注意：如果你没有LittleSkin的账号，请看下方。<br>
-但如果有，请[点击此处](#####启动器教程配置基岩版属性部分)跳转到启动器教程/配置基岩版属性部分<br>
+但如果有，请[点击此处](#启动器教程配置基岩版属性部分)跳转到启动器教程/配置基岩版属性部分<br>
 
 打开官网后，你应该可以看到这个界面：<br>
 ![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-1.png)<br>
