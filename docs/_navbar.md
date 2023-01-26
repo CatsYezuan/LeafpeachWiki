@@ -1,0 +1,6 @@
+- [主页](/)
+- [赞助](/)
+- [联系我们](/)
+- Translations
+    - [:cn: 中文](/zh-cn/)
+    - [:us: English](/en-us/)
