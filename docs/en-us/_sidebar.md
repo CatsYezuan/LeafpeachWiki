@@ -1,0 +1,6 @@
+- DCPServerIntroduction&How to join
+  - [About&How to join](/zh-cn/ServerIntroduction/int.md)
+- EchoHole
+  - [About](/zh-cn/EchoHole/int.md)
+- SoundRetainingStone
+  - [「SoundRetainingStone」· One](/zh-cn/SoundRetainingStone/s1.md)
