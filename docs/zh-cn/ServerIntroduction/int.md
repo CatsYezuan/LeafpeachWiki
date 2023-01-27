@@ -1,4 +1,4 @@
-# 关于DCP服务器⚙︎
+# 关于DCP服务器🏳️‍🌈
 
 ### 快速了解🖋
 DCP服务器(Dream Cats Planet 服务器)是开服于2022年12月30日公益性养老生电服务器，现任服主Cats叶钻<br>
@@ -53,31 +53,28 @@ DCP采用LittleSkin皮肤站外置登录验证，因此，在进入服务器前�
 拖动【将此按钮拖动至服务器】到启动器的【服务器选项】处，点击【确定】<br>
 然后返回到启动器的主页<br>
 ![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-7.png)<br>
-![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-8.png)<br>
 
 在左侧登录你的LittleSkin账号，成功后应该是这样：<br>
-![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-9.png)<br>
+![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-8.png)<br>
 
 准备好后，启动游戏，点击【多人游戏】 - 【添加服务器】<br>
 服务器地址请在DCP官方内群公告获取<br>
 添加后请刷新，应该是这样的：<br>
-![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-10.png)<br>
+![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-9.png)<br>
 那么接下来就可以入服啦<br>
-（Tips：DCP如果人多可能会为你办理入服仪式）<br>
+（Tips：DCP如果人多可能会为你办理入服仪式，具体是哪方面...这个不能说）<br>
 
 **基岩版**<br>
 **注意：以下内容暂无效**<br>
 打开你的基岩版Minecraft<br>
-【此处使用Windows10版做演示】<br>
+【教程使用MCBE Windows10版，可能与其他平台的MCBE有些许不同】<br>
 点击【游戏】 - 点击【服务器】<br>
-点击【添加服务器】 - 输入服务器地址（IP）和端口号<br>
-保存后应如下图所示：<br>
-Tips：如果刷新后没有显示MOTD，人数和延迟，请不要担心，这是基岩版的连接问题，请放心连接<br>
-![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-11.png)<br>
-
+点击【添加服务器】 - 输入服务器地址（IP）和端口号<br><br>
+Tips：如果刷新后没有显示MOTD，人数和延迟，请不要担心，一般情况下是基岩版的连接问题，请放心连接<br>
 连接后点击【使用Mojang账户登录】<br>
 在第一栏【电子邮箱/用户名】处填写你要使用的LittleSkin角色名<br>
 在第二栏输入LittleSkin账户的密码后点击【提交】<br>
 稍等大约3~5秒验证完成后即可入服<br>
-![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-12.png)<br>
-![](https://raw.githubusercontent.com/CatsYezuan/LeafpeachWiki/main/docs/zh-cn/ServerIntroduction/dcp-login-13.png)<br>
+
+好啦，教程到这里也接近尾声了w<br>
+欢迎各位来到DCP服务器！
